@@ -113,15 +113,31 @@ body section {
   background: rgba(0, 0, 0, 0.4);
 }
 .card .cover.item-a {
-  background: url("https://images.unsplash.com/photo-1520412099551-62b6bafeb5bb?auto=format&fit=crop&w=600&q=80") center center no-repeat;
+  background: url("https://i.ibb.co/JxsSvqv/troubleshoot-card.png?auto=format&fit=crop&w=590&q=80") center center no-repeat;
   background-size: cover;
 }
 .card .cover.item-b {
-  background: url("https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=600&q=80") center center no-repeat;
+  background: url("https://i.ibb.co/9mPp9dM/farewell.png?auto=format&fit=crop&w=600&q=80") center center no-repeat;
   background-size: cover;
 }
 .card .cover.item-c {
-  background: url("https://images.unsplash.com/photo-1525945518069-b924046d1385?auto=format&fit=crop&w=600&q=80") center center no-repeat;
+  background: url("https://i.ibb.co/84mg1z9/convo.png?auto=format&fit=crop&w=600&q=80") center center no-repeat;
+  background-size: cover;
+}
+.card .cover.item-d {
+  background: url("https://i.ibb.co/84mg1z9/convo.png?auto=format&fit=crop&w=600&q=80") center center no-repeat;
+  background-size: cover;
+}
+.card .cover.item-e {
+  background: url("https://i.ibb.co/g7Jx7Wh/exo-1.png?auto=format&fit=crop&w=600&q=80") center center no-repeat;
+  background-size: cover;
+}
+.card .cover.item-f {
+  background: url("https://i.ibb.co/44wBn5h/scrible-day.png?auto=format&fit=crop&w=600&q=80") center center no-repeat;
+  background-size: cover;
+}
+.card .cover.item-g {
+  background: url("https://i.ibb.co/MRyWs7F/gls.png?auto=format&fit=crop&w=600&q=80") center center no-repeat;
   background-size: cover;
 }
 .card .cover h1 {
